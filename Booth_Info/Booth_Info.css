@@ -1,0 +1,147 @@
+html{
+    margin: 0px;
+}
+
+body{
+    width: 100vw;
+    height: 100vw;
+    background-color: rgb(7, 4, 36);
+    margin: 0px;
+}
+hr{
+    width: 10vw;
+    height: 1px;
+    background-color: white;
+}
+
+@font-face {
+    font-family: "ulsanjunggu";
+    src: url("ulsanjunggu.ttf") format("truetype");
+    font-weight: normal;
+}
+
+.main{
+    width: 100vw;
+    height: 100vw;
+    margin: 0px;
+}
+.topbox{
+    width: 100vw;
+    height: 30vw;
+    
+    color: white;
+}
+
+.동그라미{
+    width: 100vw;
+    margin: 1vw;
+    
+}
+.한서대대동제-outbox{
+    display: flex;
+    justify-content: center;
+}
+.한서대대동제{
+    font-size: 8vw;
+    font-family: "ulsanjunggu";
+
+}
+.boothinfo{
+    color: white;
+    font-size: 6vw;
+    font-weight: 900;
+
+    width: 74vw;
+    height: 13vw;
+    
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 50vw;
+
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.midbox{
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.map{
+    width: 100vw;
+    height: 30vw;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottombox{
+    width: 100vw;
+    height: 100vw;
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+
+    
+}
+.booth_outbox{
+    display: flex;
+    width: 90vw;
+    height: 25vw;
+    
+    margin-top: 1vw ;
+    margin-bottom: 1vw ;
+
+}
+
+.booth_image{
+    width: 25vw;
+    height: 20vw;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+background-color: white;   
+}
+.booth{
+    width: 75vw;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgba(177, 177, 177, 0.836);
+}
+
+.heart{
+    display: flex;
+    justify-content: end;
+}
+.place{
+    color: rgba(255, 0, 76, 0.377);
+}
+.booth_name{
+    color: rgb(65, 24, 99);
+    font-size: 3vw;
+    font-weight: 900;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
