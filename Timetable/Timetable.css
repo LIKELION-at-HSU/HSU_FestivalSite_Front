@@ -10,7 +10,7 @@ html{
 
 body{
     width: 90vw;
-    height: 200vw;
+    height: 218vw;
     background: rgb(227,201,166);
     background: linear-gradient(0deg, rgba(227,201,166,1) 0%, rgba(65,67,87,1) 76%, rgba(2,11,27,1) 96%);
     margin: 0px;
@@ -144,7 +144,7 @@ hr{
     
     align-items: end;
 
-    margin-top: 16%;
+    margin-top: 13%;
     font-size: 4vw;
     font-weight: 900;
 }
