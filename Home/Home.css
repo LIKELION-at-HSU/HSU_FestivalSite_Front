@@ -46,7 +46,7 @@ hr{
 
 .main::-webkit-scrollbar {
     display: none;
-  }
+}
 
 .topbox{
     width: 100%;
@@ -157,7 +157,7 @@ hr{
 
 
 .enter_button{
-    width: 42vw;
+    width: 43vw;
     height: 12vw;
 
     border: 0px;
@@ -168,7 +168,7 @@ hr{
     justify-content: center;
     align-items: center;
 
-    font-size: 5vw;
+    font-size: 4.5vw;
     color: #1D0041;
     font-weight: 900;
     margin-top: 10%;
