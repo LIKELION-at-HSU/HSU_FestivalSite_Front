@@ -1,8 +1,11 @@
 html{
     margin: 0px;
     width: 100%;
+    
+        /* background만 수정 */
     background: rgb(227,201,166);
     background: linear-gradient(0deg, rgba(227,201,166,1) 0%, rgba(65,67,87,1) 76%, rgba(2,11,27,1) 96%);
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,8 +14,11 @@ html{
 body{
     width: 90vw;
     height: 218vw;
+
+        /* background만 수정 */
     background: rgb(227,201,166);
     background: linear-gradient(0deg, rgba(227,201,166,1) 0%, rgba(65,67,87,1) 76%, rgba(2,11,27,1) 96%);
+    
     margin: 0px;
     display: flex;
     justify-content: center;
